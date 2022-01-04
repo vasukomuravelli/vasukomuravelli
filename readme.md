@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${vasukomuravelli}.${vasukomuravelli})
 
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 I am Shanmukha Vasudev from Hyderabad, India. I am currently learning full stack web development at Masai School.
 - 🌱 I’m currently learning and building projects using Mern Stack
