@@ -19,4 +19,4 @@ I am Shanmukha Vasudev from Hyderabad, India. I am currently learning full stack
 ## 📫 Reach out to me! <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='20'>](https://www.instagram.com/vasukomuravelli_/) Instagram <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/vasu-komuravelli/) Linked In <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>]()  Portfolio
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://vasukomuravelli.github.io/portfolio/)  Portfolio
