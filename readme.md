@@ -18,6 +18,6 @@ I am Shanmukha Vasudev from Hyderabad, India. I am currently learning full stack
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasukomuravelli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## 📫 Reach out to me! <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='20'>](https://www.instagram.com/vasukomuravelli_/) Instagram <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='dev' height='20'>](https://medium.com/@vasukomuravelli96/) Medium <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/vasu-komuravelli/) Linked In <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://vasukomuravelli.github.io/portfolio/)  Portfolio
